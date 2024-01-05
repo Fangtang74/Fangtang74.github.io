@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.sixfish.fun/about/index.html</loc>
+    
+    <lastmod>2024-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.sixfish.fun/essay/index.html</loc>
     
     <lastmod>2024-01-04</lastmod>
@@ -23,24 +32,6 @@
     <loc>https://www.sixfish.fun/posts/1e36cdae905a.html</loc>
     
     <lastmod>2023-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sixfish.fun/posts/1d57a7e730dc.html</loc>
-    
-    <lastmod>2023-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sixfish.fun/about/index.html</loc>
-    
-    <lastmod>2023-12-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -92,27 +83,6 @@
 
   
   <url>
-    <loc>https://www.sixfish.fun/tags/Python/</loc>
-    <lastmod>2024-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sixfish.fun/tags/%E4%BF%A1%E6%81%AF%E9%9A%90%E8%97%8F/</loc>
-    <lastmod>2024-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sixfish.fun/tags/%E6%95%B0%E5%AD%97%E6%B0%B4%E5%8D%B0/</loc>
-    <lastmod>2024-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.sixfish.fun/tags/Zotero/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -126,14 +96,14 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://www.sixfish.fun/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</loc>
+    <loc>https://www.sixfish.fun/tags/Python/</loc>
     <lastmod>2024-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>https://www.sixfish.fun/categories/%E7%A0%94%E7%A9%B6%E7%A7%91%E7%A0%94/</loc>
