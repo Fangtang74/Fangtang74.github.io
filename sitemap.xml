@@ -101,20 +101,6 @@
 
   
   <url>
-    <loc>https://www.sixfish.fun/tags/MySQL/</loc>
-    <lastmod>2024-05-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.sixfish.fun/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2024-05-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.sixfish.fun/tags/Zotero/</loc>
     <lastmod>2024-05-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -149,17 +135,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://www.sixfish.fun/categories/%E7%BB%8F%E9%AA%8C%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://www.sixfish.fun/tags/MySQL/</loc>
     <lastmod>2024-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://www.sixfish.fun/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2024-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://www.sixfish.fun/categories/%E7%A0%94%E7%A9%B6%E7%A7%91%E7%A0%94/</loc>
+    <lastmod>2024-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sixfish.fun/categories/%E7%BB%8F%E9%AA%8C%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2024-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
